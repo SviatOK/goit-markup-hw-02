@@ -1,1 +1,45 @@
+* {
+  font-family: "Roboto", "Raleway";
+  list-style-type: none;
+}
 
+a {
+  text-decoration: none;
+}
+/* Navigation section start */
+
+.header-navigation-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+.header-navigation-logo-colored {
+  color: #4d5ae5;
+}
+
+/* Navigation section end */
+
+/* Hero banner section start */
+
+.hero-banner {
+  background: #2e2f42;
+  width: 1440px;
+  height: 600px;
+}
+
+.hero-banner-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  line-height: 107%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+  padding-top: 188px;
+}
