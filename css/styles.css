@@ -7,17 +7,6 @@ a {
   text-decoration: none;
 }
 
-.section-title {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-size: 36px;
-  /* line-height: 40px; */
-  line-height: 111%;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
-
 /* Navigation section start */
 
 .header-navigation-logo {
@@ -45,10 +34,8 @@ a {
 }
 
 .hero-banner-title {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 60px;
   line-height: 107%;
   letter-spacing: 0.02em;
   text-align: center;
@@ -57,14 +44,11 @@ a {
 }
 
 .hero-banner-button {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  /* line-height: 24px; */
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #fff;
-  cursor: pointer;
 }
 
 /* Hero banner section  end */
@@ -79,20 +63,15 @@ a {
 }
 
 .features-title {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
-  /* line-height: 24px; */
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 .features-list-item-text {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
-  /* line-height: 24px; */
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
@@ -102,19 +81,14 @@ a {
 
 /* Team section start */
 .team-title {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
-  /* line-height: 24px; */
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .team-subtitle {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
-  /* line-height: 24px; */
   line-height: 150%;
   letter-spacing: 0.02em;
   text-align: center;
@@ -137,20 +111,15 @@ a {
 .portfolio-list-item {
 }
 .portfolio-title {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
-  /* line-height: 24px; */
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 .portfolio-subtitle {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
-  /* line-height: 24px; */
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
@@ -168,7 +137,6 @@ a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  /* line-height: 21px; */
   line-height: 117%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -179,10 +147,7 @@ a {
   color: #4d5ae5;
 }
 .footer-text {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
-  /* line-height: 24px; */
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #f4f4fd;
